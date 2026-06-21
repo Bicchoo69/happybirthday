@@ -8,7 +8,6 @@ import BalloonPopSection from './components/BalloonPopSection';
 import MemoryGallery from './components/MemoryGallery';
 import GiftUnwrap from './components/GiftUnwrap';
 import StarryWish from './components/StarryWish';
-import ShareSection from './components/ShareSection';
 import FooterSection from './components/FooterSection';
 import Navigation from './components/Navigation';
 import FloatingHearts from './components/FloatingHearts';
@@ -36,7 +35,6 @@ export default function App() {
       <MemoryGallery />
       <GiftUnwrap />
       <StarryWish />
-      <ShareSection />
       <FooterSection />
     </div>
   );
